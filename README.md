@@ -5,18 +5,33 @@ The main focus of this mini project is to provide the administrators of movie th
 
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/61c28217-6f1d-41ff-8588-3dfc4d937f95)
 
-![Screenshot 2023-11-24 193306](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/1018c1ce-3f4f-478b-b819-713f33117e41)
-![Screenshot 2023-11-24 193214](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/616508a1-1c2a-4d89-9397-50b5f051fc54)
-![Screenshot 2023-11-24 192603](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/55a725b0-7fe9-47ad-9037-2bf67dd7ae87)
-![Screenshot 2023-11-24 192530](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/989f247b-d34b-433e-9c6a-68c223eb8fc7)
-![Screenshot 2023-11-24 192242](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/9be8ce28-f84f-464a-a869-2edaf3baaab2)
-![Screenshot 2023-11-24 192158](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/ea80d58d-5e8b-4c84-84c1-c52b6c4cfa6d)
-![Screenshot 2023-11-24 192048](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/db06fd6e-07e5-462a-81e3-0f3597f4888b)
-![Screenshot 2023-11-24 191948](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/944107e4-a212-4dcc-aa78-48bcce257b7c)
-![Screenshot 2023-11-24 191924](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/42fb0983-c7e9-4d0e-ba2b-16a0aefa5d63)
-![Screenshot 2023-11-24 191813](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/ff4490e5-3136-4ea3-ac0f-907e70402e06)
-![Screenshot 2023-11-24 191802](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/e66635aa-d0b1-43bd-8223-64b418be4d4a)
-![Screenshot 2023-11-24 191708](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/2de72cb4-cb72-49f6-8533-b9a77dbe346f)
-![Screenshot 2023-11-24 191538](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/f9c22201-5dc6-41f6-83c2-032abe9b324b)
-![Screenshot 2023-11-24 191517](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/ea97599e-6bfc-4ade-bba0-51eceb979dab)
-![Screenshot 2023-11-24 191453](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/b61e8599-a934-4716-8ea7-acdeda28c6ee)
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/f62cdc2d-29a9-4efb-aba4-d554b4a29f2a)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/21fa5a70-d2c7-4fec-8479-dd13eb9cbea1)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/69312fea-a2a7-4965-91c4-eb8f2eb84a90)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/534c39c9-7e51-4c5e-9081-8451320f78a7)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/a5117cef-05d0-4b47-905e-62e8e431d53e)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/69e2900f-5ce3-4843-98e1-55253e74a1b8)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/65490321-0ea9-4813-89c5-36d20173cccb)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/ff6f5771-c2ca-4549-9748-9152f7573f72)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/132e1b56-cc62-4110-aa67-fa677587960e)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/965193f5-d932-4d85-a749-56d217e7f787)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/bad966ee-6889-4812-bc19-0a4089c23203)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/075c07ba-4f2f-453f-ae5e-aabbecf772b4)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/2c6d2640-6e1c-4f6a-889f-b69d91cf4885)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/58ee9ad4-939f-483a-8311-6a9a867a0dad)
+
+![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/d97b9d36-b807-49b2-be92-df1a264b40b1)
+
