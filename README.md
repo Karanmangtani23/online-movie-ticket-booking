@@ -3,10 +3,13 @@ The main focus of this mini project is to provide the administrators of movie th
 
 # Command
 make sure to download all the given files which are provided in one folder,insert your mysql password in database.py password section and insure you have installed streamlit in your PC.Then Run "streamlit run app.py" in your terminal.
+
 # ER Diagram
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/9d706e29-d8d1-4e80-94a7-5a8cacf5b110)
+
 # Relational Schema
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/61c28217-6f1d-41ff-8588-3dfc4d937f95)
+
 # Frontend Screenshot
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/f62cdc2d-29a9-4efb-aba4-d554b4a29f2a)
 
