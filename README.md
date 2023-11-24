@@ -10,7 +10,7 @@ make sure to download all the given files which are provided in one folder,inser
 # Relational Schema
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/61c28217-6f1d-41ff-8588-3dfc4d937f95)
 
-# Frontend Screenshot
+# Frontend Screenshots
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/f62cdc2d-29a9-4efb-aba4-d554b4a29f2a)
 
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/21fa5a70-d2c7-4fec-8479-dd13eb9cbea1)
