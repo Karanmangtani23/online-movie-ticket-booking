@@ -1,13 +1,13 @@
 # online-movie-ticket-booking using streamlit and mysql
 The main focus of this mini project is to provide the administrators of movie theatre with a database management system for their online ticket booking platform. The can add, store and update the relevant information to be shown online using the database and even have a track of the users and their bookings.
 
-# Commands- streamlit run app.py
-make sure to download all the given files which are provided in one folder,insert your mysql password in database.py password section and insure you have installed streamlit in your PC.
-
+# Command
+make sure to download all the given files which are provided in one folder,insert your mysql password in database.py password section and insure you have installed streamlit in your PC.Then Run "streamlit run app.py" in your terminal.
+# ER Diagram
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/9d706e29-d8d1-4e80-94a7-5a8cacf5b110)
-
+# Relational Schema
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/61c28217-6f1d-41ff-8588-3dfc4d937f95)
-
+# Frontend Screenshot
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/f62cdc2d-29a9-4efb-aba4-d554b4a29f2a)
 
 ![image](https://github.com/Karanmangtani23/online-movie-ticket-booking/assets/151711047/21fa5a70-d2c7-4fec-8479-dd13eb9cbea1)
