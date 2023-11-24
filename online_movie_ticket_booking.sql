@@ -67,23 +67,22 @@ insert into pes1ug21cs268_289_manages values(004,004);
 insert into pes1ug21cs268_289_manages values(005,005);
 
 -- -- Join 
--- select ticket_no,uname from pes1ug21cs268_289_has_booked right join pes1ug21cs268_289_user on pes1ug21cs268_289_has_booked.uid = pes1ug21cs268_289_user.uid;
 -- select show_id from pes1ug21cs268_289_shows natural join pes1ug21cs268_289_booked_tickets;
 -- select * from pes1ug21cs268_289_shows left join pes1ug21cs268_289_movies on pes1ug21cs268_289_shows.movie_id = pes1ug21cs268_289_movies.movie_id;
 -- select * from pes1ug21cs268_289_shows natural join pes1ug21cs268_289_screens;
 
--- Aggregate
-select day,count(*) from pes1ug21cs268_289_price_list group by day;
-select language,count(*) from pes1ug21cs268_289_movies group by language;
-select movie_name,count(*) from pes1ug21cs268_289_movies natural join pes1ug21cs268_289_shows group by movie_name;
-select class,count(*) from pes1ug21cs268_289_screens natural join pes1ug21cs268_289_shows group by class;
-select day,max(price),min(price) from pes1ug21cs268_289_price_list group by day;
+-- -- Aggregate
+-- select day,count(*) from pes1ug21cs268_289_price_list group by day;
+-- select language,count(*) from pes1ug21cs268_289_movies group by language;
+-- select movie_name,count(*) from pes1ug21cs268_289_movies natural join pes1ug21cs268_289_shows group by movie_name;
+-- select class,count(*) from pes1ug21cs268_289_screens natural join pes1ug21cs268_289_shows group by class;
+-- select day,max(price),min(price) from pes1ug21cs268_289_price_list group by day;
 
--- Set
-select screen_id,class from pes1ug21cs268_289_screens union select movie_id,movie_name from pes1ug21cs268_289_movies;
-select movie_id from pes1ug21cs268_289_movies where movie_id  in (select movie_id from pes1ug21cs268_289_shows);
-select screen_id from pes1ug21cs268_289_screens where screen_id not in (select screen_id from pes1ug21cs268_289_shows);
-select show_id from pes1ug21cs268_289_shows where show_id not in (select show_id from pes1ug21cs268_289_booked_tickets);
+-- -- Set
+-- select screen_id,class from pes1ug21cs268_289_screens union select movie_id,movie_name from pes1ug21cs268_289_movies;
+-- select movie_id from pes1ug21cs268_289_movies where movie_id  in (select movie_id from pes1ug21cs268_289_shows);
+-- select screen_id from pes1ug21cs268_289_screens where screen_id not in (select screen_id from pes1ug21cs268_289_shows);
+-- select show_id from pes1ug21cs268_289_shows where show_id not in (select show_id from pes1ug21cs268_289_booked_tickets);
 
 -- -- function
 -- CREATE FUNCTION no_of_freeseats(screen_id int,sh_date date, sh_time varchar(10))
